@@ -64,13 +64,13 @@ I am an advocate for **Libre Software** and the principles of freedom, sharing, 
 ---
 
 ## WIP (Work In Progress):
-### Personal hub
+### Personal hub - Live and Public
 Webspace for all projects and future releases
 <br>
-### GreenHabits
+### GreenHabits - In Development
 Mobile app that rewards users for helping the world be a more sustainable place
 <br>
-### FreeSpread 
+### FreeSpread - Researching
 Seamlessly distribute workloads wirelessly across devices with different architectures and operating systems.
 * **Features:** Load balancing, multi-device support, cluster organization, and a built-in task scheduler.
 * Includes dedicated support for repurposing end-of-life devices.
