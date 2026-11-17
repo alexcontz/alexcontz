@@ -60,17 +60,3 @@ I am an advocate for **Libre Software** and the principles of freedom, sharing, 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-
----
-
-## WIP (Work In Progress):
-### Personal hub - Live and Public
-Webspace for all projects and future releases
-<br>
-### GreenHabits - In Development
-Mobile app that rewards users for helping the world be a more sustainable place
-<br>
-### FreeSpread - Researching
-Seamlessly distribute workloads wirelessly across devices with different architectures and operating systems.
-* **Features:** Load balancing, multi-device support, cluster organization, and a built-in task scheduler.
-* Includes dedicated support for repurposing end-of-life devices.
